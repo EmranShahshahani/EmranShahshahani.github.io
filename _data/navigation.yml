@@ -2,19 +2,19 @@
 main: 
   - title: "Blog Posts" 
     url: /year-archive/ 
-    
+
   - title: "Tutorials" 
     url: /teaching/ 
-    
+
   - title: "Podcasts" 
     url: /podcasts/ 
-    
+
   - title: "Useful Links" 
     url: /useful-links/ 
 
-- title: "CV" 
+  - title: "CV" 
     url: /cv/ 
-    
+
 #  - title: "Talks"
 #    url: /talks/    
 
