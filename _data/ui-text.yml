@@ -48,6 +48,49 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+
+# Persian 
+# -----------------
+fa: &DEFAULT_FA
+  page                       : "صفحه" #"Page"
+  pagination_previous        : "قبلی" #"Previous"
+  pagination_next            : "بعدی" #"Next"
+  breadcrumb_home_label      : "خانه" #"Home"
+  breadcrumb_separator       : "/"
+  toc_label                  : "در این صفحه" #"On This Page"
+  ext_link_label             : "لینک مستقیم" #"Direct Link"
+  less_than                  : "کمتر از" #"less than"
+  minute_read                : "زمان خوانش به دقیقه" #"minute read"
+  share_on_label             : "اشتراک بگذارید در" #"Share on"
+  meta_label                 :
+  tags_label                 : "برچسب‌ها" #"Tags:"
+  categories_label           : "دسته‌بندی‌ها" #"Categories:"
+  date_label                 : "نوشته شده در تاریخ" #"Published:"
+  comments_label             : "مرا از نظرتان بهره‌مند بفرمایید" #"Leave a Comment"
+  comments_title             : "نظرات شما" #"Comments"
+  more_label                 : "مطالعۀ بیشتر" #"Learn More"
+  related_label              : "شاید از این مطالب نیز خوشتان بیاید" #"You May Also Enjoy"
+  follow_label               : "دنبال کنید" #"Follow:"
+  feed_label                 : "فیـــد" #"Feed"
+  powered_by                 : "با قدرتِ" #"Powered by"
+  website_label              : "وب‌سایت" #"Website"
+  email_label                : "ایمیل" #"Email"
+  recent_posts               : "مطالب اخیر" #"Recent Posts"
+  undefined_wpm              : "" #"Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "ایمیل شما نمایش داده نخواهد شد. موارد ستاره دار لازم است پر شوند." #"Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "نظر" #"Comment"
+  comment_form_md_info       : "Markdown پشتیبانی می‌شود" #"Markdown is supported."
+  comment_form_name_label    : "نام" #"Name"
+  comment_form_email_label   : "ایمیل" #"Email address"
+  comment_form_website_label : "وبسایت (اختیاری)" #"Website (optional)"
+  comment_btn_submit         : "نظرتان را بفرستید" #"Submit Comment"
+  comment_btn_submitted      : "ارسال شد!" #"Submitted"
+  comment_success_msg        : "از اینکه نظرتان را ارسال کردید بسیار متشکرم! نظر شما پس از تأیید، در سایت نمایش داده خواهد شد." #"Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "عذرخواهی میکنم، ظاهراً مشکلی در ارسال نظر شما پیش آمده است. لطفاً از پر کردن موارد ستاره دار اطمینان حاصل بفرمایید و سپس دوباره دکمۀ ارسال را بزنید. ممنونم" #"Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "در حال تلاش برای نمایش دادن ..." #"Loading..."
+
+
+
 # Spanish
 # --------------
 es: &DEFAULT_ES
