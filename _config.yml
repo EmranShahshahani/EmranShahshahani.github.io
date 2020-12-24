@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emran Shahshahani"
   avatar           : "profile.png"
-  bio              : "From Imagination to Computer Generated Image - R&D in Computer Vision, Machine Learning, Computer Graphics"
+  bio              : "From Imagination to Computer Generated Image %n R&D in Computer Vision, Machine Learning, Computer Graphics"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EmranShahshahani"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "emran.shahshahani"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
